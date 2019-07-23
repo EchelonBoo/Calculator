@@ -1,0 +1,30 @@
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.exe.config
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.exe
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.pdb
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.Form1.resources
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.Properties.Resources.resources
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csproj.GenerateResource.cache
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.exe
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.pdb
+C:\Users\Bethany\Desktop\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csprojAssemblyReference.cache
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.exe.config
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.exe
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.pdb
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csprojAssemblyReference.cache
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.Form1.resources
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.Properties.Resources.resources
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csproj.GenerateResource.cache
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csproj.CoreCompileInputs.cache
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.exe
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\OOLab1\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.pdb
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.exe.config
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.exe
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\bin\Debug\Lab01Ex2.pdb
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csprojAssemblyReference.cache
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.Form1.resources
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.Properties.Resources.resources
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csproj.GenerateResource.cache
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.exe
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\OOLab1\Calculator\Lab01Ex2\Lab01Ex2\obj\Debug\Lab01Ex2.pdb
